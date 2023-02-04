@@ -1,5 +1,5 @@
 import streamlit as st
-from pyrebase import pyrebase
+import pyrebase4
 from datetime import datetime
 from streamlit_option_menu import option_menu
 from PIL import Image
